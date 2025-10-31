@@ -17,8 +17,6 @@ Always exploring automation, data science, and creative coding challenges.
 
 ---
 
----
-
 ## 🌱 Current Goals
 - Build advanced Python projects  
 - Explore Machine Learning  
